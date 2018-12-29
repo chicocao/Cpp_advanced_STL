@@ -5,6 +5,10 @@
 #include<functional>
 #include<algorithm>
 using namespace std;
+
+//排序算法要求容器提供随机访问能力，vector、deque
+//list没有，所以list有自己的sort
+
 //merge算法
 //也可以指定从大到小还是从小到大
 void print(int v) {

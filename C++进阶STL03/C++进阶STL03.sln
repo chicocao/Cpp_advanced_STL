@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3常用查找算法", "2常
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4常用排序算法", "4常用排序算法\4常用排序算法.vcxproj", "{9E42353C-9BD5-4549-8189-BFF6F9FC3F17}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5常用拷贝和替换算法", "5常用拷贝和替换算法\5常用拷贝和替换算法.vcxproj", "{C01F513E-6D61-4BC2-9ED9-533DA6A82F15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{9E42353C-9BD5-4549-8189-BFF6F9FC3F17}.Release|x64.Build.0 = Release|x64
 		{9E42353C-9BD5-4549-8189-BFF6F9FC3F17}.Release|x86.ActiveCfg = Release|Win32
 		{9E42353C-9BD5-4549-8189-BFF6F9FC3F17}.Release|x86.Build.0 = Release|Win32
+		{C01F513E-6D61-4BC2-9ED9-533DA6A82F15}.Debug|x64.ActiveCfg = Debug|x64
+		{C01F513E-6D61-4BC2-9ED9-533DA6A82F15}.Debug|x64.Build.0 = Debug|x64
+		{C01F513E-6D61-4BC2-9ED9-533DA6A82F15}.Debug|x86.ActiveCfg = Debug|Win32
+		{C01F513E-6D61-4BC2-9ED9-533DA6A82F15}.Debug|x86.Build.0 = Debug|Win32
+		{C01F513E-6D61-4BC2-9ED9-533DA6A82F15}.Release|x64.ActiveCfg = Release|x64
+		{C01F513E-6D61-4BC2-9ED9-533DA6A82F15}.Release|x64.Build.0 = Release|x64
+		{C01F513E-6D61-4BC2-9ED9-533DA6A82F15}.Release|x86.ActiveCfg = Release|Win32
+		{C01F513E-6D61-4BC2-9ED9-533DA6A82F15}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
