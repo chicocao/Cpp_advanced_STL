@@ -94,6 +94,7 @@ void test4()
 	}
 }
 //binary_search 二分查找法
+//如果是降序的，可以用 binary_search(v.begin(), v.end(), greater<int>());
 void test5() {
 	vector<int> v;
 	v.push_back(8);
